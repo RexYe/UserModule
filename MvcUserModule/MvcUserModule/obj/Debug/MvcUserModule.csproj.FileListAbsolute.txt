@@ -3,6 +3,8 @@ D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\MvcUserModule.d
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\MvcUserModule.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\MvcUserModule.pdb
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\Antlr3.Runtime.dll
+D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\EntityFramework.dll
+D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\EntityFramework.SqlServer.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\Microsoft.AI.Agent.Intercept.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\Microsoft.AI.DependencyCollector.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -12,6 +14,8 @@ D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\Microsoft.AI.Wi
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\Microsoft.ApplicationInsights.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\Microsoft.Web.Infrastructure.dll
+D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\MySql.Data.dll
+D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\MySql.Data.Entity.EF6.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\Newtonsoft.Json.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\System.Web.Helpers.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\System.Web.Mvc.dll
@@ -21,6 +25,8 @@ D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\System.Web.WebP
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\System.Web.WebPages.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\System.Web.WebPages.Razor.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\WebGrease.dll
+D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\EntityFramework.xml
+D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\EntityFramework.SqlServer.xml
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\System.Web.Helpers.xml
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\System.Web.Mvc.xml
@@ -43,7 +49,7 @@ D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\zh-Hans\System.
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\zh-Hans\System.Web.WebPages.resources.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\obj\Debug\MvcUserModule.csprojResolveAssemblyReference.cache
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\obj\Debug\MvcUserModule.csproj.CoreCompileInputs.cache
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\obj\Debug\MvcUserModule.dll
 D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\obj\Debug\MvcUserModule.pdb
+D:\workspace\yeql.xin\UserModule\MvcUserModule\MvcUserModule\obj\Debug\MvcUserModule.csprojResolveAssemblyReference.cache
