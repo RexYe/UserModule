@@ -6,8 +6,8 @@ using System.Web;
 
 namespace MvcUserModule.Models
 {
-    [Table("auth_group")]
-    public class AuthGroupRepo
+    [Table("user")]
+    public class UserRepo
     {
         public long Id { get; set; }
 

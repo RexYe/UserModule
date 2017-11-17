@@ -12,6 +12,6 @@ namespace MvcUserModule
         public Db() : base("name=database")
         {}
 
-        public DbSet<AuthGroupRepo> AuthGroupRepos { get; set; }
+        public DbSet<UserRepo> UserRepos { get; set; }
     }
 }
