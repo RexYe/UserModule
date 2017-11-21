@@ -6,8 +6,8 @@ using System.Web;
 
 namespace MvcUserModule.Models
 {
-    [Table("user")]
-    public class UserRepo
+    [Table("test")]
+    public class UserLogIn  
     {
         public long Id { get; set; }
 

@@ -12,44 +12,27 @@ namespace MvcUserModule.Controllers
     {
         public ActionResult Index()
         {
-            //SqlConnection connecton = new SqlConnection(System.Web.Configuration.WebConfigurationManager.ConnectionStrings["ad"].ConnectionString.ToString());
-            //try
-            //{
-            //    connecton.Open();
-            //    Console.WriteLine("连接数据库测试成功！") ;
-
-            //}
-            //catch (Exception err)
-            //{
-            //    Console.WriteLine("连接数据库失败！");
-            //}
-            //finally
-            //{
-            //    connecton.Close();
-            //}
             using (var db = new Db())
             {
-                db.AuthGroupRepos.Add(new AuthGroupRepo
+                db.UserLogIn.Add(new UserLogIn
                 {
                     Id = 1,
                     Name = "has"
                 });
-                db.SaveChanges();
+               // db.SaveChanges();
             }
             return View();
         }
-
-        public ActionResult About()
+   
+        public ActionResult LogIn ()
         {
-            ViewBag.Message = "Your application description page.";
-
+            ViewBag.Message = "LogIn";
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult SignUp ()
         {
-            ViewBag.Message = "Your contact page.";
-
+            ViewBag.Message = "SignUp";
             return View();
         }
     }
