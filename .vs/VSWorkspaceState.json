@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcUserModule",
+    "\\MvcUserModule\\MvcUserModule",
+    "\\MvcUserModule\\MvcUserModule\\UserModuleFront",
+    "\\MvcUserModule\\MvcUserModule\\Views",
+    "\\MvcUserModule\\MvcUserModule\\Views\\Home",
+    "\\MvcUserModule\\MvcUserModule\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MvcUserModule\\MvcUserModule\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
