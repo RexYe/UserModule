@@ -1,17 +1,18 @@
 ﻿<!DOCTYPE html>
-<html ng-app="MyApp">
+<html ng-app="app">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <title>@ViewBag.Title- My ASP.NET Application</title>
+    <title>@ViewBag.Title- UserModule</title>
     <base href="/">
+    <script src="~/Scripts/angular.js"></script>
+    <link href="~/App_Ng/app.4ae5e2f4976069675b98.css" rel="stylesheet">
 </head>
-<body>
-    <app-root></app-root>
-    <script src="~/App_Ng/inline.bundle.js"></script>
-    <script src="~/App_Ng/polyfills.bundle.js"></script>
-    <script src="~/App_Ng/styles.bundle.js"></script>
-    <script src="~/App_Ng/vendor.bundle.js"></script>
-    <script src="~/App_Ng/main.bundle.js"></script>
+<body>  
+    <header>
+        <navigation></navigation>
+    </header>
+    <div ng-view class="main-content clearfix"></div>
+    <script src="~/App_Ng/app.4ae5e2f4976069675b98.js"></script>
 </body>
 </html>

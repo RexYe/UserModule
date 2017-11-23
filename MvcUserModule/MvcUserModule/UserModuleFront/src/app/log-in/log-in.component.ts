@@ -2,6 +2,7 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import {JQuery} from 'JQuery';
 
 @Component({
 	selector: 'app-log-in',
@@ -21,6 +22,6 @@ import { CommonModule } from '@angular/common';
 export class LogInComponent implements OnInit {
 	constructor() { }
 	ngOnInit() {
-
+		console.log(1)
 	}
 }

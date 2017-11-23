@@ -13,26 +13,15 @@ namespace MvcUserModule.Controllers
         public ActionResult Index()
         {
             using (var db = new Db())
-            {
+            {  
                 db.UserLogIn.Add(new UserLogIn
                 {
-                    Id = 1,
+                    Id = 100,
                     Name = "has"
                 });
-               // db.SaveChanges();
+                db.SaveChanges();
+               // db.UserLogIn.SqlQuery<UserLogIn>("select * from test");
             }
-            return View();
-        }
-   
-        public ActionResult LogIn ()
-        {
-            ViewBag.Message = "LogIn";
-            return View();
-        }
-
-        public ActionResult SignUp ()
-        {
-            ViewBag.Message = "SignUp";
             return View();
         }
     }

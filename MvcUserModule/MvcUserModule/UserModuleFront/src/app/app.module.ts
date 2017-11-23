@@ -5,17 +5,20 @@ import { AppComponent } from './app.component';
 import { LogInComponent } from './log-in/log-in.component';
 import { SignUpComponent } from './sign-up/sign-up.component';
 import {Routes, RouterModule} from '@angular/router';
+import { DosthComponent } from './dosth/dosth.component';
 
 const appRouter: Routes = [
     {path: 'log_in', component: LogInComponent},
-    {path: 'sign_up', component: SignUpComponent}
+    {path: 'sign_up', component: SignUpComponent},
+    {path: 'do_sth', component: DosthComponent}
 ]
 
 @NgModule({
     declarations: [
         AppComponent,
         LogInComponent,
-        SignUpComponent
+        SignUpComponent,
+        DosthComponent
     ],
     imports: [
         BrowserModule,
